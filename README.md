@@ -1,7 +1,7 @@
 ![banner](https://github.com/igorsegallafa/igorsegallafa/blob/main/banner.png)
 
 ### Hello there 👋
-I am Igor Segalla, Computer Science Student at UFPR & Developer Intern at EBANX.
+I am Igor Segalla, Computer Science Student at UFPR & Software Engineer at EBANX.
 
 🎯 Full-Stack Developer<br>
 🚀 I’m currently focusing on Game Development <br>
